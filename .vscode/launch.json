@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Taller03Application<franjas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.java.edu.unicauca.asae.core.franjas.Taller03Application",
+            "projectName": "franjas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-franjasApplication<franjas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.java.edu.unicauca.asae.core.franjasApplication",
+            "projectName": "franjas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
